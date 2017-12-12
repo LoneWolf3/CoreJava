@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Basics"/>
+	<classpathentry kind="src" path="Serialization"/>
+	<classpathentry kind="src" path="IOStream"/>
+	<classpathentry kind="src" path="Networking"/>
+	<classpathentry kind="src" path="Collections"/>
+	<classpathentry kind="src" path="Concurrent"/>
+	<classpathentry kind="src" path="Threads"/>
+	<classpathentry kind="lib" path="C:/---WORSPACE_ECLIPSE---/JARS/javassist.jar" sourcepath="C:/---WORSPACE_ECLIPSE---/JARS/java_Assist_src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
